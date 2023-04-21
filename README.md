@@ -1,4 +1,4 @@
-# archiver based on Huffman-code
+# Archiver
 
 implementation of self-written archiver, which used Huffman encoding and decoding. 
 Components involved to my code are: 
