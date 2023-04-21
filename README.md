@@ -1,15 +1,11 @@
 # Archiver
 
-implementation of self-written archiver, which used Huffman encoding and decoding. 
-Components involved to my code are: 
+compressing and decompressing files using Huffman codes
 
-1)Trie, direct realization of Huffman code. 
-
-2)Bitwise input and output, because in some moments we have to read 9 bits of information 
-
-3)Parser of command line, for comfortable reading
-
-4)Exceptions, in case something went wrong or input data is incorrect
-
-5)Binary heap, which can be easily used as self-written priority queue
+# Implemented techniques
+- Tree for storing Huffman codes
+- User-friendly interface to parse console data
+- Bitwise input and ouput
+- Exceptions 
+- Priority Queue, also user-friendly with templates
 
